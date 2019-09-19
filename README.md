@@ -5,9 +5,11 @@ This repo is to show some sample code from an app I have developed.
 You can find [AfterSave](https://itunes.apple.com/us/app/aftersave/id1320429958?mt=8) from the [App Store](https://itunes.apple.com/us/app/aftersave/id1320429958?mt=8)
 
 
-
-
 ---- ABOUT THE APP ----
+
+![1](https://github.com/juhani-vainio/AfterSave3/blob/master/1.png)
+![2](https://github.com/juhani-vainio/AfterSave3/blob/master/2.png)
+![3](https://github.com/juhani-vainio/AfterSave3/blob/master/3.png)
 
 What is it?
 AfterSave is a loop-recording video camera. It records to a temporary file and starts automatically deleting old frames to make more disc space available for new frames. Recording in a loop allows you to keep on filming forever.
