@@ -36,10 +36,7 @@ Less searching for good takes to keep and bad ones to delete.
 Less trimming of excess video.
 Less work for quality!
 
-https://aftersavevideo.com/
+Website:  [AfterSaveVideo.com](https://aftersavevideo.com/)
 
-
-#---- ABOUT THE CODE ----
-
-I have not shared the entire project because there is some sensitive parts to the code that I wish to keep to myself.
+![Storyboard](https://github.com/juhani-vainio/AfterSave3/blob/master/AfterSave3/AFTERSAVE3_Storyboard.png "Storyboard")
 
