@@ -1,6 +1,6 @@
 ![AfterSave](https://github.com/juhani-vainio/AfterSave3/blob/master/images/AfterSaveGradientText.png)
 
-### H5 This repo is to show some sample code from an app I have developed.
+#### This repo is to show some sample code from an app I have developed.
 
 You can find [AfterSave](https://itunes.apple.com/us/app/aftersave/id1320429958?mt=8) from the [App Store](https://itunes.apple.com/us/app/aftersave/id1320429958?mt=8)
 
@@ -8,17 +8,17 @@ You can find [AfterSave](https://itunes.apple.com/us/app/aftersave/id1320429958?
 ![AfterSave](https://github.com/juhani-vainio/AfterSave3/blob/master/images/AfterSave3_full.mp4.gif)
 
 
-### H3 What is it?
+### What is it?
 AfterSave is a loop-recording video camera. It records to a temporary file and starts automatically deleting old frames to make more disc space available for new frames. Recording in a loop allows you to keep on filming forever.
 
 You will never run out of disc space!
 
-### H3 How is it different?
+### How is it different?
 When using other applications to record video, you will eventually have tens or hundreds of video files in your device which you need to delete to make disc space available for new recordings. The other tactic to keep your disc clean is deleting your latest video immediately before starting a new one.
 
 AfterSave does this automatically.
 
-### H3 What is it for?
+### What is it for?
 Actions that may happen but you don't know when.
 AfterSave allows you to keep filming forever, you just have to save after something happens.
 
